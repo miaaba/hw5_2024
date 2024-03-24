@@ -115,7 +115,7 @@ Displays the gallery class using flex and makes sure that the images display cor
 .gallery{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 /* The following specifications are for when the screen-size is greater than 900px */
